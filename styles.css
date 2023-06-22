@@ -54,3 +54,7 @@ p {
     padding-right: 75px;
 
 }
+div.albumcaption {
+    display: block;
+    margin-left: 100px;
+}

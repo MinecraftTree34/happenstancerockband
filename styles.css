@@ -1,0 +1,56 @@
+html {
+    background-image: linear-gradient(180deg, #020103ff, #681B61ff);
+}
+.menubar {
+    height: 240px;
+    width: 100%;
+}
+.mainlogo {
+    width: 390px;
+    height: 234px;
+    float: left;
+}
+
+.clickablelogo {
+    text-decoration: none;
+}
+.menubuttons {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    float: left;
+    font-family: 'Montserrat', sans-serif;
+    margin: 75px;
+    width: 100px;
+    height: 50px;
+    transition-duration: 0.4s;
+    border-radius: 4px;
+}
+.menubuttons:hover {
+    background-color: hsla(296, 60%, 25%, .6);
+}
+body {
+    margin: 0;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+}
+.aboutusthing {
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.aboutusimages {
+    display: block;
+    float: left;
+    padding-left: 75px;
+    padding-right: 75px;
+
+}
